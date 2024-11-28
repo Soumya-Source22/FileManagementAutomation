@@ -1,0 +1,40 @@
+[2024-11-28 17:06:38] Moved Air India Web Booking eTicket (RA484F) - SANTOSH REDDY.pdf -> Documents/
+[2024-11-28 17:06:38] Moved Air India Web Booking eTicket (RA484F) - SUJATHA.pdf -> Documents/
+[2024-11-28 17:06:38] Moved Anaconda3-2024.06-1-Windows-x86_64.exe -> Others/
+[2024-11-28 17:06:38] Moved attachments (1).zip -> Archives/
+[2024-11-28 17:06:38] Moved attachments.zip -> Archives/
+[2024-11-28 17:06:38] Moved CBAP Preparation.zip -> Archives/
+[2024-11-28 17:06:38] Moved certificate_wzKr.mpBM.cEcF.pdf -> Documents/
+[2024-11-28 17:06:38] Moved ChromeSetup (1).exe -> Others/
+[2024-11-28 17:06:38] Moved ChromeSetup.exe -> Others/
+[2024-11-28 17:06:38] Moved Code+for++Grouping+Functions+MIN,+MAX,+AVG,+COUNT+etc.txt -> Documents/
+[2024-11-28 17:06:38] Moved Code+for+Numeric+and+Date+Datatype+SRFs.txt -> Documents/
+[2024-11-28 17:06:38] Moved DCU_2023-1098.pdf -> Documents/
+[2024-11-28 17:06:38] Moved elephant.webp -> Others/
+[2024-11-28 17:06:38] Moved example.csv -> Others/
+[2024-11-28 17:06:38] Moved Formatted_Resume_Soumya.docx -> Documents/
+[2024-11-28 17:06:38] Moved G-28 (5.0).pdf -> Documents/
+[2024-11-28 17:06:38] Moved Git-2.47.0.2-64-bit.exe -> Others/
+[2024-11-28 17:06:38] Moved I-765 (5.0).pdf -> Documents/
+[2024-11-28 17:06:38] Moved International-Application-Packet1 (1).pdf -> Documents/
+[2024-11-28 17:06:38] Moved International-Application-Packet1.pdf -> Documents/
+[2024-11-28 17:06:38] Moved makeup_new.csv -> Others/
+[2024-11-28 17:06:38] Moved Microsoft Limited Hardware Warranty-North America.pdf -> Documents/
+[2024-11-28 17:06:38] Moved mortgage_20240104.pdf -> Documents/
+[2024-11-28 17:06:38] Moved NoteGPT_Summary_AWS Certified Cloud Practitioner Certification Course (CLF-C02) - Pass the Exam!.pdf -> Documents/
+[2024-11-28 17:06:38] Moved OfficeSetup.exe -> Others/
+[2024-11-28 17:06:38] Moved pcap-31-03-pcap-certified-associate-python-programm.png -> Images/
+[2024-11-28 17:06:38] Moved pycharm-community-2024.1.3.exe -> Others/
+[2024-11-28 17:06:38] Moved python-3.12.4-amd64.exe -> Others/
+[2024-11-28 17:06:38] Moved Reformatted_Python_Developer_Resume.docx -> Documents/
+[2024-11-28 17:06:38] Moved Revised_Python_Developer_Cover_Letter.docx -> Documents/
+[2024-11-28 17:06:38] Moved Setup.exe -> Others/
+[2024-11-28 17:06:38] Moved Some_BrandNew_Doc.pdf -> Documents/
+[2024-11-28 17:06:38] Moved Some_New_Doc.pdf -> Documents/
+[2024-11-28 17:06:38] Moved Some_new_file.pdf -> Documents/
+[2024-11-28 17:06:38] Moved Soumya Pic.jpg -> Images/
+[2024-11-28 17:06:38] Moved squirrel.avif -> Others/
+[2024-11-28 17:06:38] Moved to_save_file.csv -> Others/
+[2024-11-28 17:06:38] Moved VisualStudioSetup.exe -> Others/
+[2024-11-28 17:06:38] Moved Windows_PC_TurboTax_Download.exe -> Others/
+[2024-11-28 17:06:38] Moved Working_Business_Proposal.pdf -> Documents/
